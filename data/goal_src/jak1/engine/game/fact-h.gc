@@ -37,7 +37,7 @@
                          :eco-single-timeout (seconds 5)
                          :eco-full-timeout (seconds 20)
                          :dummy (seconds 15)
-                         :health-max-default 3.0
+                         :health-max-default 1.0
                          :health-single-inc 1.0
                          :eco-pill-max-default 50.0
                          :health-small-inc 1.0
